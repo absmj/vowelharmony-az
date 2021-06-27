@@ -4,7 +4,7 @@
 # İstifadəsi
 ```php
 echo VowelHarmony("Əli", "ün")." cəmi 15 xalı var. ";
-//Əli, Mikayıl və Abbasın cəmi 15 xalı var
+//Əlinin cəmi 15 xalı var
 
 echo VowelHarmony(["Əli", "Mikayıl", "Abbas"], "ün")." cəmi 15 xalı var. ";
 //Əli, Mikayıl və Abbasın cəmi 15 xalı var
